@@ -1,0 +1,104 @@
+<fonts>
+	<fontset id="Default" idloc="31390" unicode="true"> 
+		<!-- Normal Fonts -->
+		<font>
+			<name>font6</name>
+			<filename>Clarendon-Light.ttf</filename>
+			<size>8</size>
+		</font> 	
+		<font>
+			<name>font8</name>
+			<filename>Clarendon-Light.ttf</filename>
+			<size>12</size>
+		</font>
+		<font>
+			<name>font10</name>
+			<filename>Clarendon-Light.ttf</filename>
+			<size>14</size>
+		</font>
+	 	<font>
+			<name>font12</name>
+			<filename>Clarendon-Light.ttf</filename>
+			<size>17</size>
+		</font>
+	 	<font>
+			<name>font13</name>
+			<filename>Clarendon-Light.ttf</filename>
+			<size>20</size>
+		</font>
+	 	<font>
+			<name>font14</name>
+			<filename>Clarendon-Light.ttf</filename>
+			<size>22</size>
+		</font>
+	 	<font>
+			<name>font16</name>
+			<filename>Clarendon-Light.ttf</filename>
+			<size>25</size>
+		</font>
+	 	<font>
+			<name>font30</name>
+			<filename>Clarendon-Light.ttf</filename>
+			<size>30</size>
+		</font>
+	 	<font>
+			<name>fontContextMenu</name>
+			<filename>Clarendon-Light.ttf</filename>
+			<size>18</size>
+		</font>
+
+
+	<!-- Title Fonts -->
+	 	<font>
+			<name>font10_title</name>
+			<filename>Aero Matics Bold.ttf</filename>
+			<size>12</size>
+		</font>
+	 	<font>
+			<name>font12_title</name>
+			<filename>Aero Matics Bold.ttf</filename>
+			<size>17</size>
+		</font>
+	 	<font>
+			<name>font13_title</name>
+			<filename>Aero Matics Bold.ttf</filename>
+			<size>20</size>
+		</font>
+	 	<font>
+			<name>font24_title</name>
+			<filename>Aero Matics Bold.ttf</filename>
+			<size>24</size>
+		</font>
+	 	<font>
+			<name>font28_title</name>
+			<filename>Aero Matics Bold.ttf</filename>
+			<size>28</size>
+		</font>
+	 	<font>
+			<name>font30_title</name>
+			<filename>Aero Matics Bold.ttf</filename>
+			<size>30</size>
+		</font>
+	 	<font>
+			<name>font35_title</name>
+			<filename>Chunk.ttf</filename>
+			<size>46</size>
+		</font>
+	 	<font>
+			<name>font45caps_title</name>
+			<filename>Aero Matics Bold.ttf</filename>
+			<size>45</size>
+		</font>
+
+	 	<font>
+			<name>font_MainMenu</name>
+			<filename>Clarendon-Light.ttf</filename>
+			<size>35</size>
+		</font>
+	 	<font>
+			<name>WeatherTemp</name>
+			<filename>Aero Matics Bold.ttf</filename>
+			<size>80</size>
+		</font>
+	</fontset>
+</fonts>
